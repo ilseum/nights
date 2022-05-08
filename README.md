@@ -5,7 +5,7 @@ Free Hotel Nights
 | Marriott  | Greg  | 35k  | 06/30/22  |
 | Marriott  | Greg  | 35k  | 06/30/22  |
 | Marriott  | Greg  | 35k  | 06/30/22  |
-| IHG  | Greg  | 40k + Points possible  | 05/23/22  |
+| ~~IHG  | Greg  | 40k + Points possible  | 05/23/22  ~~|
 | IHG  | Greg  | 40k + Points possible  | 12/31/22  |
 | IHG  | Greg  | 40k + Points possible  | 12/31/22  |
 | IHG  | Greg  | 40k + Points possible  | 03/26/22  |
