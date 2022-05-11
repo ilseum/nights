@@ -6,8 +6,8 @@ Free Hotel Nights
 | Marriott  | Greg  | 35k  | 06/30/22  |  |
 | Marriott  | Greg  | 35k  | 06/30/22  |  |
 | ~~IHG  | Greg  | 40k + Points possible  | 05/23/22 | San Diego Airport Old Town~~|
-| IHG  | Greg  | 40k + Points possible  | 12/31/22  |  |
-| IHG  | Greg  | 40k + Points possible  | 12/31/22  |  |
+| ~~IHG  | Greg  | 40k + Points possible  | 12/31/22  | Eugene~~ |
+| ~~IHG  | Greg  | 40k + Points possible  | 12/31/22  | Eugene~~ |
 | IHG  | Greg  | 40k + Points possible  | 03/26/23  |  |
 | ~~IHG  | Chi  | 40k + Points possible  | 12/31/22  | Redding~~ |
 | ~~IHG  | Chi  | 40k + Points possible  | 12/31/22  | Redding~~ |
